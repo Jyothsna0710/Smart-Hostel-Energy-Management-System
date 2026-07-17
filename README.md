@@ -1,2 +1,16 @@
-# Smart-Hostel-Energy-Management-System
-Hostel Room Energy Saver is an IoT-based smart energy management system designed to reduce electricity consumption in hostel rooms. The system automatically controls lights and fans using occupancy and temperature sensors, provides remote monitoring capabilities, and can be extended with face recognition-based access control for enhanced security.
+Project Name:
+Hostel Room Energy Saver
+
+Description:
+An IoT-based system that automatically controls
+lights and fans based on occupancy and temperature.
+It also supports remote monitoring and can be
+extended with face recognition for security.
+
+Components:
+- ESP32
+- PIR Sensor
+- DHT11/LM35
+- Relay Module
+- LEDs
+- Fan
